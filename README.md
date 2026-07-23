@@ -8,7 +8,7 @@ The application provides a clean graphical interface where users can chat with G
 
 ## 📷 Screenshot
 
-![Gemini AI Chatbot](Screenshot%202026-07-23%20125351.png)
+![image](https://github.com/Vishakh01/gemini-ai-chatbot-python/blob/4f2f0c4ff663b3508ab10f1f753f5fe8e58c6372/gemini-Chat-Bot.png)
 
 ---
 
